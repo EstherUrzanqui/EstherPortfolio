@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Michroma&family=Rancho&family=Rock+Salt&display=swap');
+
+h1 {
+  font-family: 'Rock Salt', cursive;
+  color: white !important;
+  font-size: 5rem !important;
+}
+
+h4 {
+  color: white !important;
+  font-family: 'Michroma', sans-serif;
+}
+
+.principal {
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+}

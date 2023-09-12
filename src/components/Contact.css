@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Michroma&family=Rancho&family=Rock+Salt&display=swap');
+
+.getintouch {
+  padding-top: 7%;
+  padding-bottom: 2%;
+}
+
+h3 {
+  font-family: 'Rancho', cursive;
+  font-size: 3rem !important;
+  color: #00235f;
+}

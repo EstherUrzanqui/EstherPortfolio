@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Michroma&family=Rancho&family=Rock+Salt&display=swap');
+
+h2 {
+  font-family: 'Rancho', cursive;
+  font-size: 4rem !important;
+  padding-bottom: 2%;
+  color: #ec239f;
+}
+
+p {
+  font-family: 'Architects Daughter', cursive;
+  font-size: 1.5rem !important;
+  padding-bottom: 2%;
+}
+
+.btn.btn-primary:hover,
+.btn-outline-info,
+.btn.btn-primary:focus,
+.btn.btn-primary:active,
+.btn.btn-primary.active {
+  color: #ffffff !important;
+  background-color: #ec239f !important;
+  border-color: #ec239f !important;
+}
+
+.sobre {
+  padding: 8%;
+}

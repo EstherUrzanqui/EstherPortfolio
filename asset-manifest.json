@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/estherportfolio/static/css/main.073c9b0a.css",
+    "main.js": "/estherportfolio/static/js/main.910de8f8.js",
+    "static/js/787.425a1c1f.chunk.js": "/estherportfolio/static/js/787.425a1c1f.chunk.js",
+    "static/media/logo.svg": "/estherportfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/estherportfolio/index.html",
+    "main.073c9b0a.css.map": "/estherportfolio/static/css/main.073c9b0a.css.map",
+    "main.910de8f8.js.map": "/estherportfolio/static/js/main.910de8f8.js.map",
+    "787.425a1c1f.chunk.js.map": "/estherportfolio/static/js/787.425a1c1f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.910de8f8.js"
+  ]
+}

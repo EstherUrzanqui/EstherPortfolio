@@ -6,15 +6,15 @@
 }
 
 .navbar-list {
-  list-style-type: none; /* Quitar los puntos de la lista */
+  list-style-type: none;
   padding: 0;
   margin: 0;
 }
 
 .navbar-list li {
-  color: white; /* Cambiar el color del texto a blanco */
-  cursor: pointer; /* Cambiar el cursor al hacer hover */
-  margin: 5px 0; /* Agregar espacio entre elementos de la lista */
-  text-align: left; /* Alinear el texto a la izquierda */
-  padding-left: 20px; /* Agregar espacio a la izquierda para la apariencia deseada */
+  color: white; 
+  cursor: pointer; 
+  margin: 5px 0; 
+  text-align: left; 
+  padding-left: 20px;
 }

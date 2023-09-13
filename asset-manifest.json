@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/estherportfolio/static/css/main.f4007681.css",
-    "main.js": "/estherportfolio/static/js/main.9ebbe8b7.js",
+    "main.css": "/estherportfolio/static/css/main.1061981e.css",
+    "main.js": "/estherportfolio/static/js/main.7ccf6ae5.js",
     "static/js/787.425a1c1f.chunk.js": "/estherportfolio/static/js/787.425a1c1f.chunk.js",
     "static/media/background.jpg": "/estherportfolio/static/media/background.fb6a261b527058f6ad27.jpg",
     "static/media/Esperança.png": "/estherportfolio/static/media/Esperança.0968a5032463dbdb210a.png",
@@ -19,12 +19,12 @@
     "static/media/HTML.png": "/estherportfolio/static/media/HTML.c77fed674c34630bf6ef.png",
     "static/media/jwt-icon.png": "/estherportfolio/static/media/jwt-icon.28ba78c40f8304bb2f67.png",
     "index.html": "/estherportfolio/index.html",
-    "main.f4007681.css.map": "/estherportfolio/static/css/main.f4007681.css.map",
-    "main.9ebbe8b7.js.map": "/estherportfolio/static/js/main.9ebbe8b7.js.map",
+    "main.1061981e.css.map": "/estherportfolio/static/css/main.1061981e.css.map",
+    "main.7ccf6ae5.js.map": "/estherportfolio/static/js/main.7ccf6ae5.js.map",
     "787.425a1c1f.chunk.js.map": "/estherportfolio/static/js/787.425a1c1f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f4007681.css",
-    "static/js/main.9ebbe8b7.js"
+    "static/css/main.1061981e.css",
+    "static/js/main.7ccf6ae5.js"
   ]
 }

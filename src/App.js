@@ -18,18 +18,18 @@ function App() {
         backgroundSize: 'cover',
         maxWidth: '100%'
       }}>
-        <div className='Navbar'>
-          <Navbar />
-        </div>
+      <div className='Navbar'>
+        <Navbar />
+      </div>
         <Home />
       </div>
-      <div className='About'>
+      <div id="about" className='About'>
         <About />
       </div>
-      <div className='Portfolio'>
+      <div id="projects" className='Portfolio'>
         <Portfolio />
       </div>
-      <div className='Contact'>
+      <div id="contact" className='Contact'>
         <Contact />
       </div>
     </div>
